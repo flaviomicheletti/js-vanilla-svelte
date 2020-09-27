@@ -25,6 +25,6 @@ passo a passo.
 
 ### Curtiu ?
 
-Não esquece de deixar um estrelinha !
+Não esquece de deixar uma estrelinha !
 
 ![github-star](https://user-images.githubusercontent.com/1257048/94361962-61bc0480-008e-11eb-861c-30f6eae51d22.png)
