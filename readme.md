@@ -2,7 +2,7 @@
 
 # JavaScript Vanilla com Svelte ?
 
-Pô Flavinhão, se é com Svelte então não é sabor Vanilla ?
+Pô Flavinhão, se é com Svelte então não é sabor Vanilla !!!
 
 Calma, calma ! Sim, perfeitamente, não é vanilla. Mas este repo é para fazermos um paralelo, uma
 comparação do JS puro com algum framework.
