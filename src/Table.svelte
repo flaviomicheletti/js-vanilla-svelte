@@ -12,7 +12,7 @@
   </thead>
   <tbody>
     {#each todos as eachtodo}
-      <tr on:click={() => todo.set(eachtodo)} bar="abc">
+      <tr on:click={() => todo.set(eachtodo)}>
         <th scope="row">{eachtodo.id}</th>
         <td>{eachtodo.title}</td>
       </tr>
